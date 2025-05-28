@@ -1,6 +1,6 @@
 from typing import Generic,TypeVar,Optional
 from abc import ABC
-from Identity import Identity
+from generics.Identity import Identity
 
 T = TypeVar('T')
 
